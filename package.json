@@ -1,0 +1,18 @@
+{
+  "name": "electron-handtrack",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "handtrack"
+  ],
+  "author": "Masamitsu Bando",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^26.0.0"
+  }
+}
